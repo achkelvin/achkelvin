@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achkelvin&label=Profile%20views&color=0e75b6&style=flat" alt="achkelvin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achkelvin" alt="achkelvin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achkelvin&rank=UNKNOWN&column=-1&theme=dracula&margin-w=15&margin-h=15&no-frame=true" alt="achkelvin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/stra84ward" target="blank"><img src="https://img.shields.io/twitter/follow/stra84ward?logo=twitter&style=for-the-badge" alt="stra84ward" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/stra84ward" target="blank"><img src="https://img.shields.io/twitter/follow/stra84ward?logo=twitter&style=for-the-badge" alt="stra84ward" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
